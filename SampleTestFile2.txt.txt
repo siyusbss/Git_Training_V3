@@ -1,1 +1,2 @@
 Este es un ejemplo 2This is Comparion lecture, change in file 2
+This is Stash lecture, Change in file 2
